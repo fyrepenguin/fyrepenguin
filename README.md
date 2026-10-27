@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Mourya Prasanth logo" width="96" />
+<img src="logo.png" alt="Mourya Prasanth logo" width="96" />
 
 # Hey, I’m Mourya 👋
 
@@ -43,7 +43,7 @@ I’ve built for banks, schools, newsrooms and startups, from design systems and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/torque-desktop.webp" alt="Torque workshop dashboard on desktop" />
+      <img src="torque-desktop.webp" alt="Torque workshop dashboard on desktop" />
       <h3>🔧 Torque</h3>
       <p><em>Less reading, more repairing.</em> A full stack workshop app for desktop and mobile: job cards, bookings, inventory, invoices and team pay, built for busy hands.</p>
       <ul>
@@ -55,8 +55,8 @@ I’ve built for banks, schools, newsrooms and startups, from design systems and
     </td>
     <td width="50%" valign="top">
       <p>
-        <img src="assets/humilo-memories.webp" alt="Humilo memories screen" width="48%" />
-        <img src="assets/humilo-focus.webp" alt="Humilo shared focus timer" width="48%" />
+        <img src="humilo-memories.webp" alt="Humilo memories screen" width="48%" />
+        <img src="humilo-focus.webp" alt="Humilo shared focus timer" width="48%" />
       </p>
       <h3>💞 Humilo</h3>
       <p><em>More us, less noise.</em> A mobile app for couples to put their phones down together, plan small rituals and keep the moments that matter.</p>
@@ -70,7 +70,7 @@ I’ve built for banks, schools, newsrooms and startups, from design systems and
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://dotpandalabs.com"><img src="assets/dotpandalabs-home.webp" alt="Dot Panda Labs studio homepage" /></a>
+      <a href="https://dotpandalabs.com"><img src="dotpandalabs-home.webp" alt="Dot Panda Labs studio homepage" /></a>
       <h3>🐼 <a href="https://dotpandalabs.com">Dot Panda Labs</a></h3>
       <p>The front door for a London product studio: services, products, insights and an easy way to start a project. Every page prerendered as static HTML, search-ready, and light by design with just two dependencies beyond React. <em>Fast enough for Northern line Wi-Fi.</em></p>
       <p><code>Next.js App Router</code> <code>TypeScript</code> <code>CSS Modules</code> <code>Design tokens</code></p>
